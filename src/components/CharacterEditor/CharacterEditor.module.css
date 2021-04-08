@@ -26,8 +26,7 @@
 }
 
 .characterWrapper {
-  width: 40%;
-  max-height: calc(100vh - 128px);
+  width: 35%;
   position: fixed;
   right: 0;
   top: 128px;
